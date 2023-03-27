@@ -1,3 +1,5 @@
+REMOTE  
+  
 # merge_conflicts
 Exercice merge/conflicts  
   
