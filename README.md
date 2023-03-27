@@ -1,3 +1,5 @@
+LOCAL  
+  
 # merge_conflicts
 Exercice merge/conflicts  
   
